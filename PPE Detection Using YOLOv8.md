@@ -1,0 +1,1 @@
+A deep learning-based computer vision model to detect Personal Protective Equipment (PPE) in images and videos using YOLOv8. Ideal for enhancing workplace safety compliance in industrial environments.
